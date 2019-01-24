@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/tutorialmanager",
+    "name": "boing6002/tutorialmanager",
     "description": "Tutorial management dependency for Laravel Enso",
     "keywords": [
         "laravel-enso",
@@ -20,13 +20,13 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel-enso/activitylog": "1.1.*",
-        "laravel-enso/core": "3.5.*",
-        "laravel-enso/vuedatatable": "1.9.*",
-        "laravel-enso/formbuilder": "2.12.*",
-        "laravel-enso/helpers": "1.10.*",
-        "laravel-enso/permissionmanager": "2.3.*",
-        "laravel-enso/structuremanager": "2.5.*"
+        "boing6002/activitylog": "dev-master",
+        "boing6002/core": "dev-master",
+        "boing6002/vuedatatable": "dev-master",
+        "boing6002/formbuilder": "dev-master",
+        "boing6002/helpers": "dev-master",
+        "boing6002/permissionmanager": "dev-master",
+        "boing6002/structuremanager": "dev-master"
     },
     "autoload": {
         "psr-4": {
